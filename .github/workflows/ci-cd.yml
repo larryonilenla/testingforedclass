@@ -23,7 +23,8 @@ jobs:
       run: npm install
 
     - name: Run tests
-      run: npm test || echo "No tests defined"
+      run: npm test
+#run: npm test || echo "No tests defined"
 
     - name: Build
       run: npm start &
