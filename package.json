@@ -1,0 +1,26 @@
+{
+  "name": "testingforedclass",
+  "version": "1.0.0",
+  "description": "Testing automation of creating github actions self hosted runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+  "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larryonilenla/testingforedclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larryonilenla/testingforedclass/issues"
+  },
+  "homepage": "https://github.com/larryonilenla/testingforedclass#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
